@@ -7,6 +7,7 @@ Curated list of interesting links for web development.
 https://react.dev/ - overhauled official documentation from React creators.  
 https://react.gg/  
 https://www.patterns.dev/
+https://react-ui-roundup.dimitrimitropoulos.com/ - comparison of different UI libraries and its components
 
 ### UI / component libs
 
