@@ -8,6 +8,7 @@ https://react.dev/ - overhauled official documentation from React creators.
 https://react.gg/  
 https://www.patterns.dev/
 https://react-ui-roundup.dimitrimitropoulos.com/ - comparison of different UI libraries and its components
+https://refine.dev/ - rapid development
 
 ### UI / component libs
 
@@ -28,14 +29,21 @@ https://lerna.js.org/
 ## MISC
 
 https://rome.tools/ - unified linter & formatter. prettier alternative?
+https://github.com/tonsky/FiraCode - free monospaced font with programming ligatures
+https://tiptap.dev - collaborative editor library
+https://supernova.io - storybook competitor? better for documentation?
+https://linearb.io/platform/gitstream - continous merge
+https://refactoring.fm - tips and articles for software engineers
 
 ## WORK TOOLS
 
 https://swimm.io/ - documentation directly in the IDE.
+https://stepsize.com - async dailys etc.
 
 ## TESTING
 
 https://vitest.dev/
+https://mswjs.io - mocking with service workers
 
 #### Test coverage
 
