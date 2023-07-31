@@ -34,6 +34,7 @@ https://tiptap.dev - collaborative editor library
 https://supernova.io - storybook competitor? better for documentation?
 https://linearb.io/platform/gitstream - continous merge
 https://refactoring.fm - tips and articles for software engineers
+https://keepachangelog.com/
 
 ## WORK TOOLS
 
